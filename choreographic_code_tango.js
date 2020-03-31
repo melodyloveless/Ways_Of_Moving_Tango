@@ -130,7 +130,7 @@ var textarray = [
 "Only two/too bodies can speak it",
 "Self and Other - crossing terriories,",
 "listen",
-"everybody."
+"everybody.",
 "Su forma universal y que esa especie venturosa tiene,",
 "aunque humilde, un lugar en el universo."
 ];
